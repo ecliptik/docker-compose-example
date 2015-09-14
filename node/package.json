@@ -1,0 +1,13 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Micheal Waltz",
+  "dependencies": {
+    "express": "latest",
+    "hiredis": "latest",
+    "mocha": "latest",
+    "redis": "latest"
+  }
+}
